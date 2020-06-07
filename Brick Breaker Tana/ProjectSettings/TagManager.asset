@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rocket
+  - Ball
+  - BottomBorder
+  - BrickParent
+  - BallParent
+  - Heart
+  - Brick
+  - ScoreText
+  - LifeText
+  - ExtendedPowerUp
+  - ExtendedRocket
+  - Bullet
+  - BulletPowerUp
+  - TopBorder
+  - Score
+  - Borders
+  - LifeParent
+  - Life
+  - SpecialBrick
+  - ShakeScreen
+  - ButtonRestart
+  - ButtonMenu
+  - ButtonNextLevel
+  - ChangeColor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Brick
+  - Ball
+  - Heart
+  - BallSpawner
+  - ExtendedSpawner
+  - Rocket
+  - Bullet
+  - BulletSpawner
+  - Panel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
