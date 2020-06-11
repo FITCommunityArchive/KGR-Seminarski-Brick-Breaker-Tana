@@ -2,10 +2,10 @@
 Brick Breaker Game
 
 
-2D game
+2D Game
 
-6 levels
+6 Levels
 
-Different powerups
+Different Powerups
 
 Brick Breaker Tile Set ---> https://opengameart.org/content/breakout-brick-breaker-tile-set-free
